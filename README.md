@@ -7,6 +7,13 @@ My config for zsh on my MacBook. I use it for C++ Qt development and you can del
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 
+## Features
+* Autosuggestions like on fish shell
+* Neofetch output when opening a terminal
+* Starship integrations
+* Aliases for auto-correction and fast update of your packages
+* Custom keybindings
+
 ---
 
 ## Must have packages
@@ -26,10 +33,11 @@ brew install eza bat autojump zsh-autosuggestions zsh-syntax-highlighting
 * LLVM
 * Qt6
 * Qt5
+* Dotnet-SDK
 
 ### Quick installation
 ```
-brew install llvm qt5 qt6 starship
+brew install llvm qt5 qt6 starship dotnet-sdk 
 ```
 
 ## Fast installation (all my packages for config)
