@@ -49,7 +49,7 @@ brew install neovim llvm qt6 qt5 eza bat starship autojump zsh-autosuggestions z
 
 # Config installation
 
-> If you will change paths or do something else you should change this config before installation (Paste only "git clone" and "cd" to your terminal)
+> Backup your shell config in ~/zshrc.bak
 
 ```
 cd ~/
