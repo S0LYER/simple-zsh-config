@@ -1,5 +1,6 @@
 # Simple ZSH config
 My config for zsh on my MacBook. I use it for C++ Qt development and you can delete some paths from this config on your pc. If you can change paths you can use this config on GNU/Linux too. 
+
 ---
 
 > You should install JetBrains Mono Nerd font if your interface have some bugs with interface
@@ -7,14 +8,14 @@ My config for zsh on my MacBook. I use it for C++ Qt development and you can del
 brew install --cask font-jetbrains-mono-nerd-font
 ```
 
+---
+
 ## Features
 * Autosuggestions like on fish shell
 * Neofetch output when opening a terminal
 * Starship integrations
 * Aliases for auto-correction and fast update of your packages
 * Custom keybindings
-
----
 
 ## Must have packages
 * Eza
