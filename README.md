@@ -1,5 +1,13 @@
 # Simple ZSH config
-My config for zsh on my MacBook. I use it for C++ Qt development and you can delete some paths from this config on your pc. 
+My config for zsh on my MacBook. I use it for C++ Qt development and you can delete some paths from this config on your pc. If you can change paths you can use this config on GNU/Linux too. 
+---
+
+> You should install JetBrains Mono Nerd font if your interface have some bugs with interface
+```
+brew install --cask font-jetbrains-mono-nerd-font
+```
+
+---
 
 ## Must have packages
 * Eza
@@ -26,5 +34,5 @@ brew install llvm qt5 qt6 starship
 
 ## Fast installation (all my packages for config)
 ```
-brew install neovim llvm qt6 qt5 eza bat starship autojump zsh-autosuggestions zsh-syntax-highlighting fastfetch btop
+brew install neovim llvm qt6 qt5 eza bat starship autojump zsh-autosuggestions zsh-syntax-highlighting fastfetch btop neofetch
 ```
